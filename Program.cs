@@ -9,9 +9,12 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("===============================");
+    Console.WriteLine("===============================");
     Console.WriteLine("========== Výpis řady =========");
     Console.WriteLine("===============================");
+    Console.WriteLine("===============================");
     Console.WriteLine("========= Šanda Dominik =======");
+    Console.WriteLine("===============================");
     Console.WriteLine("===============================\n");
     Console.WriteLine();
 
